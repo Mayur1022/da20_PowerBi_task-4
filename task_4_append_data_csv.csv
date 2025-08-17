@@ -1,4 +1,4 @@
-﻿order_line,order_id,order_date,ship_date,ship_mode,customer_id,product_id,sales,quantity,discount,profit
+order_line,order_id,order_date,ship_date,ship_mode,customer_id,product_id,sales,quantity,discount,profit
 172,Ca-New-2014-118962,05-Aug-14,09-Aug-14,Standard Class,CS-12130,OFF-PA-10000659,20.94,3,0,9.8418
 307,Ca-New-2014-111003,01-Jun-14,06-Jun-14,Standard Class,CR-12625,OFF-BI-10001072,45.48,3,0,20.9208
 314,Ca-New-2014-120887,27-Sep-14,03-Oct-14,Standard Class,TS-21205,FUR-FU-10001588,87.54,3,0,37.6422
